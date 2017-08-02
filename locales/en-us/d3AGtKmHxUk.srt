@@ -4,7 +4,7 @@ I'm on my course-collaboration-travel-plans,
 
 2
 00:00:02,759 --> 00:00:05,448
-a project that I forked from whams here.
+a project that I forked from Lahm's here.
 
 3
 00:00:05,448 --> 00:00:09,780
@@ -144,7 +144,7 @@ I am now on the udacity account,
 
 37
 00:01:55,849 --> 00:01:58,280
-but looking at lahm's project.
+but looking at Lahm's project.
 
 38
 00:01:58,280 --> 00:02:00,530
@@ -205,4 +205,3 @@ these changes- to include this pull request in her master branch,
 52
 00:02:35,775 --> 00:02:39,000
 because she owns this repository.
-
