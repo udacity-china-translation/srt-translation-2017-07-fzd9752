@@ -14,7 +14,7 @@ we wanted to talk about how to consider
 
 4
 00:00:09,570 --> 00:00:13,770
-the ethics of your AB test and
+the ethics of your A/B test and
 how to protect your users.
 
 5
@@ -52,7 +52,7 @@ that you should be answering for
 
 12
 00:00:32,066 --> 00:00:33,760
-your proposed AB test.
+your proposed A/B test.
 
 13
 00:00:33,760 --> 00:00:34,470
@@ -65,13 +65,13 @@ much thought to these issues.
 
 15
 00:00:37,763 --> 00:00:41,080
-After all if your a streaming
+After all if you're a streaming
 video service, a review site, or
 
 16
 00:00:41,080 --> 00:00:45,190
-your selling handmade goods or meals,
-is the service your providing really
+you’re selling handmade goods or meals,
+is the service you're providing really
 
 17
 00:00:45,190 --> 00:00:49,040
@@ -85,7 +85,7 @@ cases that's probably right.
 
 19
 00:00:52,160 --> 00:00:55,140
->> But, you know, you can get to
+But, you know, you can get to
 a gray line pretty quickly if you
 
 20
